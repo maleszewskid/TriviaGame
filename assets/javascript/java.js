@@ -55,15 +55,19 @@ $(".form-check-input").on("click", function checker() {
 $("#submitBtn").on("click", function submit() {
     if (score === 5) {
         alert("CONGRATS YOU SCORED A PERFECT 5/5! YOU ARE A TRUE JEDI MASTER!")
+        score = 0;
     } else {
         alert("Your score was: " + score + "/5 !")
+        score = 0;
     }
 })
 
 function submit1() {
     if (score === 5) {
         alert("CONGRATS YOU SCORED A PERFECT 5/5! YOU ARE A TRUE JEDI MASTER!")
+        score = 0;
     } else {
         alert("Your score was: " + score + "/5 !")
+        score = 0;
     }
 }
