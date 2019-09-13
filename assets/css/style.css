@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url("../images/universe.jpg");
+    align-items: center;
+    text-align: center;
+    color: yellow;
+}
+
+#show-number {
+    text-align: center;
+    color: yellow;
+}
+
+body {
+    background-color: #050507;
+}
+
+.form-check-label {
+    color: yellow;
+}
+
+.container {
+    color: yellow;
+    text-decoration: underline;
+    font-weight: bold;
+}
