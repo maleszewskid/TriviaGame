@@ -23,3 +23,15 @@ body {
     text-decoration: underline;
     font-weight: bold;
 }
+
+#music {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#submitBtn {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
